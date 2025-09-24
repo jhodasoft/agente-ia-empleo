@@ -57,5 +57,5 @@ Este proyecto es un **Agente de IA** en **Python** que realiza **scraping** de u
 
 
 ## 👨‍💻 Autor
-Desarrollado con ❤️ por [Jhonny Dante](https://www.linkedin.com/in/jhodasoft/)
+Desarrollado con ❤️ por [Jhonny Dante](https://www.linkedin.com/in/jhonnydante/)
 
