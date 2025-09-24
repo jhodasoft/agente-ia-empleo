@@ -1,0 +1,51 @@
+# ======================
+# 🚀 Proyecto Python
+# ======================
+
+# Entornos virtuales
+venv/
+env/
+.venv/
+
+# Configuración local / credenciales
+.env
+*.env
+
+# Archivos compilados de Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Archivos de log
+*.log
+
+# Archivos de base de datos locales
+*.sqlite3
+*.db
+
+# Archivos temporales de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de pruebas o experimentos
+tests/
+mis_pruebas/
+
+# Archivos de Jupyter (si usas notebooks)
+.ipynb_checkpoints/
+
+# Archivos de PyInstaller / builds
+build/
+dist/
+*.spec
+
+# Archivos de caché de herramientas
+*.egg-info/
+.eggs/
+.cache/
+.mypy_cache/
+.pytest_cache/
+
+# Resultados generados por el script
+convocatorias_filtradas.json
