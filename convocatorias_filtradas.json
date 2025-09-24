@@ -1,0 +1,410 @@
+[
+    {
+        "titulo": "MINISTERIO DE EDUCACIÓN(MINEDU): CAS N° 0334: ASESOR(A)",
+        "lugar": "Lima",
+        "sueldo_num": 14000,
+        "fecha": "Finaliza el 30/09/2025",
+        "ver_convocatoria": "https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-0334-asesor-ministerio-educacion-minedu-lima-528213.html",
+        "evaluacion_cv": "SI - Amplia experiencia en análisis de datos, BI, y gestión de bases de datos, con habilidades técnicas relevantes."
+    },
+    {
+        "titulo": "MINISTERIO DE TRABAJO(MTPE): CAS N° 251: COORDINADOR/A DE PROYECTOS TECNOLOGICOS",
+        "lugar": "Lima",
+        "sueldo_num": 13000,
+        "fecha": "Finaliza el 25/09/2025",
+        "ver_convocatoria": "https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-251-coordinador-proyectos-tecnologicos-ministerio-trabajo-mtpe-lima-526504.html",
+        "evaluacion_cv": "SI - Amplia experiencia en análisis de datos, gestión de proyectos tecnológicos y herramientas relevantes para el puesto."
+    },
+    {
+        "titulo": "PODER JUDICIAL: ESPECIALISTA EN SEGURIDAD INFORMÁTICA",
+        "lugar": "Lima",
+        "sueldo_num": 12000,
+        "fecha": "Finaliza el 24/09/2025",
+        "ver_convocatoria": "https://www.convocatoriasdetrabajo.com/oportunidad-laboral-especialista-seguridad-informatica-poder-judicial-lima-528877.html",
+        "evaluacion_cv": "No evaluado (límite de llamadas alcanzado)"
+    },
+    {
+        "titulo": "MINISTERIO DE EDUCACIÓN(MINEDU): CAS N° 0336: COORDINADOR(A) DE OFICINA DE GESTIÓN DE PROYECTOS (PMO)",
+        "lugar": "Lima",
+        "sueldo_num": 12000,
+        "fecha": "Finaliza el 30/09/2025",
+        "ver_convocatoria": "https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-0336-coordinador-oficina-gestion-proyectos-pmo-ministerio-educacion-minedu-lima-528215.html",
+        "evaluacion_cv": "No evaluado (límite de llamadas alcanzado)"
+    },
+    {
+        "titulo": "OSINERGMIN: CAS N° 097: ESPECIALISTA EN ARQUITECTURA DE INFRAESTRUCTURA TECNOLÓGICA",
+        "lugar": "Lima",
+        "sueldo_num": 11000,
+        "fecha": "Finaliza el 25/09/2025",
+        "ver_convocatoria": "https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-097-especialista-arquitectura-infraestructura-tecnologica-osinergmin-lima-529800.html",
+        "evaluacion_cv": "No evaluado (límite de llamadas alcanzado)"
+    },
+    {
+        "titulo": "MIGRACIONES: CAS N° 338: COORDINADOR(A) EN ADMINISTRACION DE SERVIDORES",
+        "lugar": "Lima",
+        "sueldo_num": 10264,
+        "fecha": "Finaliza el 26/09/2025",
+        "ver_convocatoria": "https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-338-coordinador-administracion-servidores-migraciones-lima-527064.html",
+        "evaluacion_cv": "No evaluado (límite de llamadas alcanzado)"
+    },
+    {
+        "titulo": "MINISTERIO DE VIVIENDA: CAS N° 193: Especialista Evaluador del Centro de Operaciones de Emergencia",
+        "lugar": "Lima",
+        "sueldo_num": 10000,
+        "fecha": "Finaliza el 02/10/2025",
+        "ver_convocatoria": "https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-193-especialista-evaluador-del-centro-operaciones-emergencia-ministerio-vivienda-lima-529812.html",
+        "evaluacion_cv": "No evaluado (límite de llamadas alcanzado)"
+    },
+    {
+        "titulo": "MINISTERIO DE VIVIENDA: CAS N° 198: ESPECIALISTA EN CONTRATACIONES DEL ESTADO",
+        "lugar": "Lima",
+        "sueldo_num": 10000,
+        "fecha": "Finaliza el 02/10/2025",
+        "ver_convocatoria": "https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-198-especialista-contrataciones-del-estado-ministerio-vivienda-lima-529786.html",
+        "evaluacion_cv": "No evaluado (límite de llamadas alcanzado)"
+    },
+    {
+        "titulo": "CONCYTEC: CAS N° 051: ESPECIALISTA EN ARQUITECTURA DE TI",
+        "lugar": "Lima",
+        "sueldo_num": 10000,
+        "fecha": "Finaliza el 28/09/2025",
+        "ver_convocatoria": "https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-051-especialista-arquitectura-concytec-lima-529592.html",
+        "evaluacion_cv": "No evaluado (límite de llamadas alcanzado)"
+    },
+    {
+        "titulo": "OECE: CAS N° 153: Especialista II en Desarrollo del Sistema del Registro Nacional de Proveedores (RNP)",
+        "lugar": "Lima",
+        "sueldo_num": 9000,
+        "fecha": "Finaliza el 23/09/2025",
+        "ver_convocatoria": "https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-153-especialista-desarrollo-del-sistema-registro-nacional-proveedores-rnp-oece-lima-529180.html",
+        "evaluacion_cv": "No evaluado (límite de llamadas alcanzado)"
+    },
+    {
+        "titulo": "OECE: CAS N° 152: Especialista II en Desarrollo del Sistema Electrónico de Contrataciones del Estado",
+        "lugar": "Lima",
+        "sueldo_num": 9000,
+        "fecha": "Finaliza el 23/09/2025",
+        "ver_convocatoria": "https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-152-especialista-desarrollo-del-sistema-electronico-contrataciones-estado-oece-lima-529179.html",
+        "evaluacion_cv": "No evaluado (límite de llamadas alcanzado)"
+    },
+    {
+        "titulo": "OECE: CAS N° 151: ESPECIALISTA II EN ANÁLISIS Y PRUEBAS",
+        "lugar": "Lima",
+        "sueldo_num": 9000,
+        "fecha": "Finaliza el 23/09/2025",
+        "ver_convocatoria": "https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-151-especialista-analisis-pruebas-oece-lima-529178.html",
+        "evaluacion_cv": "No evaluado (límite de llamadas alcanzado)"
+    },
+    {
+        "titulo": "DEFENSORÍA DEL PUEBLO: CAS N° 149: Especialista en Gobierno Digital e Inteligencia Artificial III",
+        "lugar": "Lima",
+        "sueldo_num": 9000,
+        "fecha": "Finaliza el 24/09/2025",
+        "ver_convocatoria": "https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-149-especialista-gobierno-digital-inteligencia-artificial-iii-defensoria-del-pueblo-lima-527402.html",
+        "evaluacion_cv": "No evaluado (límite de llamadas alcanzado)"
+    },
+    {
+        "titulo": "MINISTERIO DE TRABAJO(MTPE): CAS N° 241: ESPECIALISTA EN SEGURIDAD DE DESARROLLO DE SISTEMAS",
+        "lugar": "Lima",
+        "sueldo_num": 9000,
+        "fecha": "Finaliza el 24/09/2025",
+        "ver_convocatoria": "https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-241-especialista-seguridad-desarrollo-sistemas-ministerio-trabajo-mtpe-lima-526494.html",
+        "evaluacion_cv": "No evaluado (límite de llamadas alcanzado)"
+    },
+    {
+        "titulo": "MIGRACIONES: CAS N° 349: ESPECIALISTA DE PROYECTOS DE INFRAESTRUCTURA TECNOLOGICA",
+        "lugar": "Lima",
+        "sueldo_num": 8764,
+        "fecha": "Finaliza el 26/09/2025",
+        "ver_convocatoria": "https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-349-especialista-proyectos-infraestructura-tecnologica-migraciones-lima-527075.html",
+        "evaluacion_cv": "No evaluado (límite de llamadas alcanzado)"
+    },
+    {
+        "titulo": "MINISTERIO DE TRABAJO(MTPE): CAS N° 250: ESPECIALISTA EN GESTIÓN DE SERVICIOS TECNOLÓGICOS Y MICROCOMPUTADORES",
+        "lugar": "Lima",
+        "sueldo_num": 8500,
+        "fecha": "Finaliza el 25/09/2025",
+        "ver_convocatoria": "https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-250-especialista-gestion-servicios-tecnologicos-microcomputadores-ministerio-trabajo-mtpe-lima-526503.html",
+        "evaluacion_cv": "No evaluado (límite de llamadas alcanzado)"
+    },
+    {
+        "titulo": "MINISTERIO DE TRABAJO(MTPE): CAS N° 242:  ESPECIALISTAS EN DESARROLLO SEGURO",
+        "lugar": "Lima",
+        "sueldo_num": 8500,
+        "fecha": "Finaliza el 24/09/2025",
+        "ver_convocatoria": "https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-242-especialistas-desarrollo-seguro-ministerio-trabajo-mtpe-lima-526495.html",
+        "evaluacion_cv": "No evaluado (límite de llamadas alcanzado)"
+    },
+    {
+        "titulo": "MINISTERIO PÚBLICO - FISCALÍA: CAS N° 104 - CÓDIGO ANA-10: ANALISTA",
+        "lugar": "Lima",
+        "sueldo_num": 8264,
+        "fecha": "Finaliza el 01/10/2025",
+        "ver_convocatoria": "https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-104-codigo-ana-analista-ministerio-publico-fiscalia-lima-529303.html",
+        "evaluacion_cv": "No evaluado (límite de llamadas alcanzado)"
+    },
+    {
+        "titulo": "MINISTERIO PÚBLICO - FISCALÍA: CAS N° 104 - CÓDIGO ANA-04: ANALISTA",
+        "lugar": "Lima",
+        "sueldo_num": 8264,
+        "fecha": "Finaliza el 01/10/2025",
+        "ver_convocatoria": "https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-104-codigo-ana-analista-ministerio-publico-fiscalia-lima-529298.html",
+        "evaluacion_cv": "No evaluado (límite de llamadas alcanzado)"
+    },
+    {
+        "titulo": "MINISTERIO DE JUSTICIA(MINJUS): CAS N° 0704: Especialista II de Sistemas de Informacion",
+        "lugar": "Lima",
+        "sueldo_num": 8264,
+        "fecha": "Finaliza el 24/09/2025",
+        "ver_convocatoria": "https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-0704-especialista-sistemas-informacion-ministerio-justicia-minjus-lima-526114.html",
+        "evaluacion_cv": "No evaluado (límite de llamadas alcanzado)"
+    },
+    {
+        "titulo": "MINISTERIO DE VIVIENDA: CAS N° 195: ANALISTA PROGRAMADOR II",
+        "lugar": "Lima",
+        "sueldo_num": 8000,
+        "fecha": "Finaliza el 02/10/2025",
+        "ver_convocatoria": "https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-195-analista-programador-ministerio-vivienda-lima-529814.html",
+        "evaluacion_cv": "No evaluado (límite de llamadas alcanzado)"
+    },
+    {
+        "titulo": "CONCYTEC: CAS N° 052: ESPECIALISTA EN INFRAESTRUCTURA DE TI",
+        "lugar": "Lima",
+        "sueldo_num": 8000,
+        "fecha": "Finaliza el 28/09/2025",
+        "ver_convocatoria": "https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-052-especialista-infraestructura-concytec-lima-529593.html",
+        "evaluacion_cv": "No evaluado (límite de llamadas alcanzado)"
+    },
+    {
+        "titulo": "PODER JUDICIAL: CAS N° 100 - CÓDIGO 02996: COORDINADOR/A DE CALIDAD DE SOFTWARE",
+        "lugar": "Lima",
+        "sueldo_num": 8000,
+        "fecha": "Finaliza el 30/09/2025",
+        "ver_convocatoria": "https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-100-codigo-coordinador-calidad-software-poder-judicial-lima-528475.html",
+        "evaluacion_cv": "No evaluado (límite de llamadas alcanzado)"
+    },
+    {
+        "titulo": "MINISTERIO DE EDUCACIÓN(MINEDU): CAS N° 0335: ESPECIALISTA 1 EN CONTROL DE CALIDAD 04",
+        "lugar": "Lima",
+        "sueldo_num": 8000,
+        "fecha": "Finaliza el 30/09/2025",
+        "ver_convocatoria": "https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-0335-especialista-control-calidad-ministerio-educacion-minedu-lima-528214.html",
+        "evaluacion_cv": "No evaluado (límite de llamadas alcanzado)"
+    },
+    {
+        "titulo": "OTASS: CAS N° 173: ESPECIALISTA EN CIBERSEGURIDAD",
+        "lugar": "Lima",
+        "sueldo_num": 8000,
+        "fecha": "Finaliza el 24/09/2025",
+        "ver_convocatoria": "https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-173-especialista-ciberseguridad-otass-lima-527209.html",
+        "evaluacion_cv": "No evaluado (límite de llamadas alcanzado)"
+    },
+    {
+        "titulo": "OTASS: CAS N° 174: ESPECIALISTA EN ANÁLISIS Y DISEÑO DE SISTEMAS DE INFORMACIÓN",
+        "lugar": "Lima",
+        "sueldo_num": 8000,
+        "fecha": "Finaliza el 24/09/2025",
+        "ver_convocatoria": "https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-174-especialista-analisis-diseno-sistemas-informacion-otass-lima-527206.html",
+        "evaluacion_cv": "No evaluado (límite de llamadas alcanzado)"
+    },
+    {
+        "titulo": "MINISTERIO PÚBLICO - FISCALÍA: CAS N° 104 - CÓDIGO ANAPROG-02: ANALISTA PROGRAMADOR",
+        "lugar": "Lima",
+        "sueldo_num": 7514,
+        "fecha": "Finaliza el 01/10/2025",
+        "ver_convocatoria": "https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-104-codigo-anaprog-analista-programador-ministerio-publico-fiscalia-lima-529310.html",
+        "evaluacion_cv": "No evaluado (límite de llamadas alcanzado)"
+    },
+    {
+        "titulo": "DEFENSORÍA DEL PUEBLO: CAS N° 189: Especialista en Desarrollo de Sistemas I",
+        "lugar": "Lima",
+        "sueldo_num": 7500,
+        "fecha": "Finaliza el 24/09/2025",
+        "ver_convocatoria": "https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-189-especialista-desarrollo-sistemas-defensoria-del-pueblo-lima-527404.html",
+        "evaluacion_cv": "No evaluado (límite de llamadas alcanzado)"
+    },
+    {
+        "titulo": "SUNAT: CAS N° 297: ESPECIALISTA EN COMPENSACIONES",
+        "lugar": "Lima",
+        "sueldo_num": 7500,
+        "fecha": "Finaliza el 25/09/2025",
+        "ver_convocatoria": "https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-297-especialista-compensaciones-sunat-lima-527126.html",
+        "evaluacion_cv": "No evaluado (límite de llamadas alcanzado)"
+    },
+    {
+        "titulo": "POLICÍA NACIONAL(PNP): CAS N° 118: ASISTENTE DE BASE DE DATOS",
+        "lugar": "Lima",
+        "sueldo_num": 7100,
+        "fecha": "Finaliza el 26/09/2025",
+        "ver_convocatoria": "https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-118-asistente-base-datos-policia-nacional-pnp-lima-527570.html",
+        "evaluacion_cv": "No evaluado (límite de llamadas alcanzado)"
+    },
+    {
+        "titulo": "MINISTERIO DE EDUCACIÓN(MINEDU): CAS N° 0326:ESPECIALISTA INFORMATICO",
+        "lugar": "Lima",
+        "sueldo_num": 7000,
+        "fecha": "Finaliza el 30/09/2025",
+        "ver_convocatoria": "https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-0326-especialista-informatico-ministerio-educacion-minedu-lima-528205.html",
+        "evaluacion_cv": "No evaluado (límite de llamadas alcanzado)"
+    },
+    {
+        "titulo": "INDECOPI: CAS N° 237:  ESPECIALISTA EN INGENIERÍA DE SISTEMAS",
+        "lugar": "Lima",
+        "sueldo_num": 7000,
+        "fecha": "Finaliza el 26/09/2025",
+        "ver_convocatoria": "https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-237-especialista-ingenieria-sistemas-indecopi-lima-526606.html",
+        "evaluacion_cv": "No evaluado (límite de llamadas alcanzado)"
+    },
+    {
+        "titulo": "OECE: CAS N° 162: ANALISTA II EN GESTIÓN DE LA CERTIFICACIÓN",
+        "lugar": "Lima",
+        "sueldo_num": 6500,
+        "fecha": "Finaliza el 23/09/2025",
+        "ver_convocatoria": "https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-162-analista-gestion-certificacion-oece-lima-529189.html",
+        "evaluacion_cv": "No evaluado (límite de llamadas alcanzado)"
+    },
+    {
+        "titulo": "OECE: CAS N° 155: ANALISTA II PROGRAMADOR PARA MESA DE AYUDA SEACE",
+        "lugar": "Lima",
+        "sueldo_num": 6500,
+        "fecha": "Finaliza el 23/09/2025",
+        "ver_convocatoria": "https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-155-analista-programador-mesa-ayuda-seace-oece-lima-529182.html",
+        "evaluacion_cv": "No evaluado (límite de llamadas alcanzado)"
+    },
+    {
+        "titulo": "OECE: CAS N° 154: Analista II Programador para Mantenimiento de Sistemas",
+        "lugar": "Lima",
+        "sueldo_num": 6500,
+        "fecha": "Finaliza el 23/09/2025",
+        "ver_convocatoria": "https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-154-analista-programador-mantenimiento-sistemas-oece-lima-529181.html",
+        "evaluacion_cv": "No evaluado (límite de llamadas alcanzado)"
+    },
+    {
+        "titulo": "UNIVERSIDAD ENRIQUE GUZMÁN Y VALLE: CAS N° 062: ESPECIALISTA EN SEGURIDAD INFORMÁTICA",
+        "lugar": "Lima",
+        "sueldo_num": 6500,
+        "fecha": "Finaliza el 25/09/2025",
+        "ver_convocatoria": "https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-062-especialista-seguridad-informatica-universidad-enrique-guzman-valle-lima-529025.html",
+        "evaluacion_cv": "No evaluado (límite de llamadas alcanzado)"
+    },
+    {
+        "titulo": "MINISTERIO PÚBLICO - FISCALÍA: CAS N° 126 - CÓDIGO PER-01: PERITO",
+        "lugar": "Madre de Dios",
+        "sueldo_num": 6264,
+        "fecha": "Finaliza el 29/09/2025",
+        "ver_convocatoria": "https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-126-codigo-per-perito-ministerio-publico-fiscalia-madre-dios-529382.html",
+        "evaluacion_cv": "No evaluado (límite de llamadas alcanzado)"
+    },
+    {
+        "titulo": "MINISTERIO PÚBLICO - FISCALÍA: CAS N° 104 - CÓDIGO EAD-01: ESPECIALISTA ADMINISTRATIVO",
+        "lugar": "Lima",
+        "sueldo_num": 6264,
+        "fecha": "Finaliza el 01/10/2025",
+        "ver_convocatoria": "https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-104-codigo-ead-especialista-administrativo-ministerio-publico-fiscalia-lima-529321.html",
+        "evaluacion_cv": "No evaluado (límite de llamadas alcanzado)"
+    },
+    {
+        "titulo": "MINISTERIO PÚBLICO - FISCALÍA: CAS N° 104 - CÓDIGO ANAPROG-03: ANALISTA PROGRAMADOR",
+        "lugar": "Lima",
+        "sueldo_num": 6264,
+        "fecha": "Finaliza el 01/10/2025",
+        "ver_convocatoria": "https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-104-codigo-anaprog-analista-programador-ministerio-publico-fiscalia-lima-529313.html",
+        "evaluacion_cv": "No evaluado (límite de llamadas alcanzado)"
+    },
+    {
+        "titulo": "MINISTERIO PÚBLICO - FISCALÍA: CAS N° 104 - CÓDIGO ANAPROG-01: ANALISTA PROGRAMADOR",
+        "lugar": "Lima",
+        "sueldo_num": 6264,
+        "fecha": "Finaliza el 01/10/2025",
+        "ver_convocatoria": "https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-104-codigo-anaprog-analista-programador-ministerio-publico-fiscalia-lima-529308.html",
+        "evaluacion_cv": "No evaluado (límite de llamadas alcanzado)"
+    },
+    {
+        "titulo": "MINISTERIO PÚBLICO - FISCALÍA: CAS N° 104 - CÓDIGO ANA-09: ANALISTA",
+        "lugar": "Lima",
+        "sueldo_num": 6264,
+        "fecha": "Finaliza el 01/10/2025",
+        "ver_convocatoria": "https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-104-codigo-ana-analista-ministerio-publico-fiscalia-lima-529302.html",
+        "evaluacion_cv": "No evaluado (límite de llamadas alcanzado)"
+    },
+    {
+        "titulo": "MIGRACIONES: CAS N° 342: ANALISTA EN PRODUCCIÓN Y ALMACENAMIENTO DE MICROFORMAS",
+        "lugar": "Lima",
+        "sueldo_num": 6264,
+        "fecha": "Finaliza el 26/09/2025",
+        "ver_convocatoria": "https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-342-analista-produccion-almacenamiento-microformas-migraciones-lima-527068.html",
+        "evaluacion_cv": "No evaluado (límite de llamadas alcanzado)"
+    },
+    {
+        "titulo": "OSIPTEL: CAS N° 054: ANALISTA DE SOPORTE DE APLICACIONES",
+        "lugar": "Lima",
+        "sueldo_num": 6000,
+        "fecha": "Finaliza el 07/10/2025",
+        "ver_convocatoria": "https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-054-analista-soporte-aplicaciones-osiptel-lima-529909.html",
+        "evaluacion_cv": "No evaluado (límite de llamadas alcanzado)"
+    },
+    {
+        "titulo": "MINISTERIO DESARROLLO AGRARIO(MIDAGRI): CAS N° 053: ANALISTA PROGRAMADOR",
+        "lugar": "Lima",
+        "sueldo_num": 6000,
+        "fecha": "Finaliza el 26/09/2025",
+        "ver_convocatoria": "https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-053-analista-programador-ministerio-desarrollo-agrario-midagri-lima-529819.html",
+        "evaluacion_cv": "No evaluado (límite de llamadas alcanzado)"
+    },
+    {
+        "titulo": "MINISTERIO DE VIVIENDA: CAS N° 196: ANALISTA EN DESARROLLO TECNOLÓGICO",
+        "lugar": "Lima",
+        "sueldo_num": 6000,
+        "fecha": "Finaliza el 02/10/2025",
+        "ver_convocatoria": "https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-196-analista-desarrollo-tecnologico-ministerio-vivienda-lima-529815.html",
+        "evaluacion_cv": "No evaluado (límite de llamadas alcanzado)"
+    },
+    {
+        "titulo": "OSINERGMIN: CAS N° 099: ANALISTA PROGRAMADOR DE APLICACIONES TICS",
+        "lugar": "Lima",
+        "sueldo_num": 6000,
+        "fecha": "Finaliza el 03/10/2025",
+        "ver_convocatoria": "https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-099-analista-programador-aplicaciones-tics-osinergmin-lima-529802.html",
+        "evaluacion_cv": "No evaluado (límite de llamadas alcanzado)"
+    },
+    {
+        "titulo": "LLAMKASUN PERÚ: CAS N° 096: ANALISTA EN ADMINISTRACIÓN DE PERSONAL",
+        "lugar": "Lima",
+        "sueldo_num": 6000,
+        "fecha": "Finaliza el 25/09/2025",
+        "ver_convocatoria": "https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-096-analista-administracion-personal-llamkasun-peru-lima-529287.html",
+        "evaluacion_cv": "No evaluado (límite de llamadas alcanzado)"
+    },
+    {
+        "titulo": "GOBIERNO REGIONAL DE LAMBAYEQUE: CAS N° 002: ESPECIALISTA EN CONTRATACIONES",
+        "lugar": "Lambayeque",
+        "sueldo_num": 6000,
+        "fecha": "Finaliza el 25/09/2025",
+        "ver_convocatoria": "https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-002-especialista-contrataciones-gobierno-regional-lambayeque-529053.html",
+        "evaluacion_cv": "No evaluado (límite de llamadas alcanzado)"
+    },
+    {
+        "titulo": "PODER JUDICIAL: CAS N° 087 - CÓDIGO 01300: GESTOR DE PROYECTOS DE INFORMACIÓN",
+        "lugar": "Lima",
+        "sueldo_num": 6000,
+        "fecha": "Finaliza el 24/09/2025",
+        "ver_convocatoria": "https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-087-codigo-gestor-proyectos-informacion-poder-judicial-lima-528398.html",
+        "evaluacion_cv": "No evaluado (límite de llamadas alcanzado)"
+    },
+    {
+        "titulo": "PODER JUDICIAL: CAS N° 096 - CÓDIGO 01230: ANALISTA TÉCNICO DE PROYECTOS",
+        "lugar": "Lima",
+        "sueldo_num": 6000,
+        "fecha": "Finaliza el 26/09/2025",
+        "ver_convocatoria": "https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-096-codigo-analista-tecnico-proyectos-poder-judicial-lima-528301.html",
+        "evaluacion_cv": "No evaluado (límite de llamadas alcanzado)"
+    },
+    {
+        "titulo": "SUTRAN: CAS N° 177: ANALISTA DE DATOS",
+        "lugar": "Lima",
+        "sueldo_num": 6000,
+        "fecha": "Finaliza el 24/09/2025",
+        "ver_convocatoria": "https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-177-analista-datos-sutran-lima-525942.html",
+        "evaluacion_cv": "No evaluado (límite de llamadas alcanzado)"
+    }
+]
